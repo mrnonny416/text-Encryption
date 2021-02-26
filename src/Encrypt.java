@@ -37,4 +37,3 @@ public class Encrypt {
 		return encryptName;
 	}
 }
-//devnon
